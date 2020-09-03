@@ -1,2 +1,2 @@
 # EGB320Team15
-A repository for various python scripts to localcontrol a lunar rover robot.local
+A reporepository for various python reposcripts to control a lunar rover robot.
